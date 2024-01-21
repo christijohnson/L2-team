@@ -8,4 +8,4 @@ const getData = async (req, res, next) => {
   });
 };
 
-module.exports - { getData };
+module.exports = { getData };
